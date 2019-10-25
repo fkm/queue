@@ -1,0 +1,13 @@
+# System
+.directory
+.DS_Store
+Thumbs.db
+
+# Editors
+/.vscode/
+
+# Node
+/.npm/
+/node_modules/
+/npm-debug.log
+/package-lock.json

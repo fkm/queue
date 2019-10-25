@@ -1,0 +1,14 @@
+{
+  "name": "queue",
+  "description": "",
+  "repository": "fkm/queue",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Florian Mäder <florian@maederbiel.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.119",
+    "@types/node": "^12.7.4",
+    "lodash": "^4.17.11"
+  }
+}
