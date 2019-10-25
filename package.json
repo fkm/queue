@@ -6,6 +6,7 @@
   "private": true,
   "author": "Florian Mäder <florian@maederbiel.ch>",
   "license": "MIT",
+  "main": "src/index.ts",
   "dependencies": {
     "@types/lodash": "^4.14.119",
     "@types/node": "^12.7.4",
