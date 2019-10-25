@@ -1,6 +1,6 @@
 {
   "name": "queue",
-  "description": "",
+  "description": "Promise based task queue with integrated store.",
   "repository": "fkm/queue",
   "version": "0.0.0",
   "private": true,
