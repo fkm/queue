@@ -2,7 +2,7 @@
 import { EventEmitter } from 'events';
 
 // Local Dependencies
-import { QueueStore, QueueStoreData } from "./store";
+import { QueueStore, QueueStoreData } from './store';
 
 /**
  * An asynchronous task queue with integrated store.
@@ -100,7 +100,7 @@ export class Queue extends EventEmitter {
 					},
 					error => {
 						this.emit('error', error);
-					}
+					},
 				);
 			}
 		} else {
